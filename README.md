@@ -1,9 +1,16 @@
 # bdd-cucumber-example
-A BDD example using cucumber, selenium-webdriver, Pug, and pure vanilla JS for the front end (with pre-compiled pug).
+A node.js application developed using an Express framework and a behavior driven development(BDD) process.
 
-The application is a Catalog of sorts that pulls from the Best Buy API and shows different available products.
+The application itself is a Catalog that pulls from the Best Buy API and shows different available products.
 
-*Built using: node v4.6.2 (npm v2.15.11) on a Mac, but should work on all platforms with different versions of node
+### Info about the app:
+
+- CucumberJS is used as the test framework 
+- Selenium is used to run the webpage automation tests
+- Pug, formerly known as jade, is used to create and manipulate the webpage
+- Pure vanilla javascript is the only thing running on the client side (aside from 2 small pre-compiled Pug templates)
+- The cross-env module is used to allow the run scripts to work on all operating systems
+
 
 ### Behavior Driven Development (BDD)
 BDD combines test driven development (TDD) with a human readable aspect. It provides software development and management teams with shared tools and a shared process to collaborate on software development.

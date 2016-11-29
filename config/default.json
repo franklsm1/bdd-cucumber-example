@@ -1,0 +1,14 @@
+{
+  "env": {
+    "HOST": "localhost",
+    "PORT": 7777,
+    "LOG_LEVEL": "info"
+  },
+  "BestBuy": {
+    "url": "https://api.bestbuy.com/v1/products(search=searchTerm)?format=json&show=name,salePrice,features.feature,largeImage,mediumImage&apiKey=",
+    "api_key": "FILL ME IN"
+  },
+  "BestBuyJson": {
+    "url": "./assets/json/bestBuyResponse.json"
+  }
+}

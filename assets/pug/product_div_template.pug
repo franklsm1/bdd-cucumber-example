@@ -1,0 +1,8 @@
+input(type='button' class='_button' name='View More' value='View More')
+img(src=smImg class='smallImage' name='smallImage')
+img(src=regImg class='regularImage' name='regularImage' style='display:none;')
+pre(class='description') #{description}
+ul(class='moreInfo' style='display:none;')
+    each bullet in moreInfo
+        li=bullet.feature
+pre(class='price') #{price}

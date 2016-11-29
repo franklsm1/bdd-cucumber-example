@@ -1,0 +1,103 @@
+pre {
+    font-weight: inherit;
+    font-style: inherit;
+    font-size: 100%;
+    font-family: inherit;
+}
+
+#mainProduct {
+    background-color: Gainsboro;
+    border: 3px solid grey;
+    margin: 5% 5% 1.5% 5%;
+    display: flex;
+    flex-flow: row;
+}
+
+#mainProductImg {
+    display: block;
+    margin: 10px;
+}
+
+#mainDescription {
+    font-weight: bold;
+    white-space: pre-wrap;
+    margin-bottom: 20px;
+}
+
+#mainImgDiv {
+    width: auto;
+    margin: 2%;
+}
+
+#infoProduct {
+    width: 48%;
+    margin: 2%;
+}
+
+#priceAndButton {
+    width: 30%;
+    text-align: center;
+}
+
+#addCart {
+    background: grey;
+    width: 80%;
+    font-size: 125%;
+    padding: 10px;
+    border: 2px solid black;
+    margin: 15% auto 30% auto;
+    position: relative;
+
+}
+
+#mainProductPrice {
+    font-size: 125%;
+}
+
+ul {
+    padding: 0;
+    display: list-item;
+    list-style-type: disc;
+}
+
+li {
+    margin: 0 0 2% 0;
+}
+
+/*Check for mobile view*/
+@media (max-width: 768px) {
+    #mainImgDiv {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #mainProduct {
+        flex-flow: column;
+    }
+
+    #infoProduct {
+        width: 100%;
+        margin: 2%;
+    }
+
+    #priceAndButton {
+        width: 100%;
+    }
+
+    #addCart {
+        margin: 5px;
+        max-width: 50%;
+    }
+
+    #mainDescription {
+        margin: 5%;
+        text-align: center;
+        white-space: pre-wrap;
+    }
+
+    ul {
+        margin-left: 15%;
+        margin-right: 15%;
+    }
+}

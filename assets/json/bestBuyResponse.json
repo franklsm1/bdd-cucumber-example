@@ -1,0 +1,342 @@
+{
+  "from": 1,
+  "to": 10,
+  "total": 35,
+  "currentPage": 1,
+  "totalPages": 4,
+  "queryTime": "0.038",
+  "totalTime": "0.071",
+  "partial": false,
+  "canonicalUrl": "/v1/products(search=\"ibm\")?show=name,salePrice,features.feature,largeImage,mediumImage&format=json&apiKey=jYQIzmDAAWQAyvRLvZmSGA5N",
+  "products": [
+    {
+      "name": "Adesso - EasyTouch Keyboard - Black",
+      "salePrice": 57.99,
+      "features": [
+        {
+          "feature": "Keyboard/Keypad Connectivity Technology: Cable"
+        },
+        {
+          "feature": "Number of Keys: 107"
+        },
+        {
+          "feature": "Hot Keys: Internet"
+        },
+        {
+          "feature": "Keys Layout: QWERTY"
+        },
+        {
+          "feature": "Pointing Device Type: TouchPad"
+        },
+        {
+          "feature": "Keyboard/Keypad Host Interface: USB"
+        },
+        {
+          "feature": "Color: Black"
+        },
+        {
+          "feature": "Keyboard/Keypad Height: 1.34\""
+        },
+        {
+          "feature": "Keyboard/Keypad Width: 15.75\""
+        },
+        {
+          "feature": "Keyboard/Keypad Depth: 9.25\""
+        },
+        {
+          "feature": "Weight (Approximate): 3.00 lb"
+        },
+        {
+          "feature": "Device Supported: Computer"
+        },
+        {
+          "feature": "Limited Warranty: 1 Year"
+        }
+      ],
+      "largeImage": "http://img.bbystatic.com/BestBuy_US/images/products/9984/9984285_sb.jpg",
+      "mediumImage": "http://img.bbystatic.com/BestBuy_US/images/products/9984/9984285fp.gif"
+    },
+    {
+      "name": "Adesso - Mini Keyboard - White",
+      "salePrice": 49.99,
+      "features": [
+        {
+          "feature": "Keyswitch Technology: Membrane"
+        },
+        {
+          "feature": "Keyboard/Keypad Connectivity Technology: Cable"
+        },
+        {
+          "feature": "Number of Keys: 89"
+        },
+        {
+          "feature": "Hot Keys: Function"
+        },
+        {
+          "feature": "Keys Layout: QWERTY"
+        },
+        {
+          "feature": "Pointing Device Type: TouchPad"
+        },
+        {
+          "feature": "Keyboard/Keypad Host Interface: USB"
+        },
+        {
+          "feature": "Color: White"
+        },
+        {
+          "feature": "Keyboard/Keypad Height: 1\""
+        },
+        {
+          "feature": "Keyboard/Keypad Width: 11.50\""
+        },
+        {
+          "feature": "Keyboard/Keypad Depth: 8.50\""
+        },
+        {
+          "feature": "Weight (Approximate): 1.54 lb"
+        },
+        {
+          "feature": "Device Supported: Computer"
+        }
+      ],
+      "largeImage": "http://img.bbystatic.com/BestBuy_US/images/products/9984/9984197_sb.jpg",
+      "mediumImage": "http://img.bbystatic.com/BestBuy_US/images/products/9984/9984197fp.gif"
+    },
+    {
+      "name": "Cooler Master - MasterWatt 65 Universal Laptop Adapter - Black",
+      "salePrice": 37.99,
+      "features": [
+        {
+          "feature": "Includes 10 interchangeable tips for use with most laptops\nIncluding Acer, Asus, HP, Compaq, Benq, IBM, Lenovo, Toshiba, Fujitsu, Gateway, Nec, MSI, Dell brands for wide-ranging compatibility."
+        },
+        {
+          "feature": "Blue LED light power indicator\nShows you at a glance that the adapter is operational."
+        },
+        {
+          "feature": "19V output\nFor quick, efficient charging."
+        }
+      ],
+      "largeImage": "http://img.bbystatic.com/BestBuy_US/images/products/5581/5581088_sb.jpg",
+      "mediumImage": "http://img.bbystatic.com/BestBuy_US/images/products/5581/5581088fp.gif"
+    },
+    {
+      "name": "Cooler Master - MasterWatt 90 Universal Laptop Adapter - Black",
+      "salePrice": 49.99,
+      "features": [
+        {
+          "feature": "Includes 10 interchangeable tips for use with most laptops\nIncluding Acer, Asus, HP, Compaq, Benq, IBM, Lenovo, Toshiba, Fujitsu, Gateway, Nec, MSI, Dell brands for wide-ranging compatibility."
+        },
+        {
+          "feature": "Blue LED light power indicator\nShows you at a glance that the adapter is operational."
+        },
+        {
+          "feature": "19V output\nFor quick, efficient charging."
+        }
+      ],
+      "largeImage": "http://img.bbystatic.com/BestBuy_US/images/products/5581/5581080_sb.jpg",
+      "mediumImage": "http://img.bbystatic.com/BestBuy_US/images/products/5581/5581080fp.gif"
+    },
+    {
+      "name": "DENAQ - 6-Cell Lithium-Ion Battery for Select IBM ThinkPad Laptops",
+      "salePrice": 65.99,
+      "features": [
+        {
+          "feature": "Compatible with select IBM ThinkPad laptops\nIncluding T400-14.1, R61-14.1, R61E-14.1, R61I-14.1, R400 14.1, T61 14.1 Widescreen and T61P 14.1 Widescreen models."
+        },
+        {
+          "feature": "10.8V and 5400 mAh capacity\nProvide sustained power to your laptop."
+        },
+        {
+          "feature": "Overcharge protection\nHelps ensure safe use."
+        },
+        {
+          "feature": "Smart technology\nCommunicates accurate information to your computer."
+        }
+      ],
+      "largeImage": "http://img.bbystatic.com/BestBuy_US/images/products/6480/6480327_rb.jpg",
+      "mediumImage": "http://img.bbystatic.com/BestBuy_US/images/products/6480/6480327fp.gif"
+    },
+    {
+      "name": "DENAQ - 9-Cell Lithium-Ion Battery for Select IBM ThinkPad Laptops",
+      "salePrice": 55.99,
+      "features": [
+        {
+          "feature": "Compatible with select IBM ThinkPad laptops\nIncluding R400, R5004, R6, R60, R60E, R60I4, R61E, R61I, SL300, SL400, SL500, T500, T60, T60P, T61, T61P, W500, Z60M, Z61E, Z61P and Z61M models."
+        },
+        {
+          "feature": "10.8V and 6600 mAh capacity\nOffer a sustained charge."
+        },
+        {
+          "feature": "Overcharge protection\nHelps ensure safe operation."
+        },
+        {
+          "feature": "Smart technology\nCommunicates accurate information to your laptop."
+        }
+      ],
+      "largeImage": "http://img.bbystatic.com/BestBuy_US/images/products/1342/1342415_rb.jpg",
+      "mediumImage": "http://img.bbystatic.com/BestBuy_US/images/products/1342/1342415fp.gif"
+    },
+    {
+      "name": "Denaq - AC Adapter for IBM 3000 C100 N100 V100; ThinkPad R60e R61 T60 T60p X60 X60s Z60 Z60m Z60t Z61e Z61t",
+      "salePrice": 30.99,
+      "features": [
+        {
+          "feature": "Device Supported: Notebook"
+        },
+        {
+          "feature": "Output Voltage: 20 V DC"
+        },
+        {
+          "feature": "Maximum Output Power: 85 W"
+        },
+        {
+          "feature": "Maximum Output Current: 4.50 A"
+        },
+        {
+          "feature": "Height: 1.2\""
+        },
+        {
+          "feature": "Width: 2\""
+        },
+        {
+          "feature": "Depth: 5\""
+        },
+        {
+          "feature": "Weight (Approximate): 1.50 lb"
+        },
+        {
+          "feature": "Compatible to OEM Part Number: 40Y766040Y766140Y766240Y766340Y766440Y766540Y766640Y766792P110992P115593P502692P1154FRU 92P1104"
+        },
+        {
+          "feature": "Compatibility: Lenovo 3000 Notebooks:C100N100V100Lenovo ThinkPad R Series Notebooks:R60eR61R61eR61iLenovo ThinkPad T Series Notebooks:"
+        },
+        {
+          "feature": "Limited Warranty: 1 Year"
+        }
+      ],
+      "largeImage": "http://img.bbystatic.com/BestBuy_US/images/products/6481/6481762_sb.jpg",
+      "mediumImage": "http://img.bbystatic.com/BestBuy_US/images/products/6481/6481762fp.gif"
+    },
+    {
+      "name": "DENAQ - AC Power Adapter and Charger for Select IBM Laptops - Black",
+      "salePrice": 25.99,
+      "features": [
+        {
+          "feature": "Compatible with select IBM laptops\nIncluding ThinkPad R60, R61-14.1, R61E-14.1, R61I-14.1, R61-15.4, R61E-15.4, R61I-15.4, SL300, SL400, SL500, T410, T60, X22, X60, X61, X200, X300, Z60, Z60M, Z60T and Essential Port Replicator models."
+        },
+        {
+          "feature": "Also compatible with IBM 3000 C100, C200, N100 and V100 models."
+        },
+        {
+          "feature": "Charges your compatible device\nUtilizes 65W of power and delivers a 3.25-amp output for extended use on the go; 20V power rating."
+        },
+        {
+          "feature": "Safety fuses\nHelp protect your laptop against damage caused by power surges."
+        },
+        {
+          "feature": "Smart technology\nCommunicates accurate information to your computer."
+        }
+      ],
+      "largeImage": "http://img.bbystatic.com/BestBuy_US/images/products/1342/1342276_sb.jpg",
+      "mediumImage": "http://img.bbystatic.com/BestBuy_US/images/products/1342/1342276fp.gif"
+    },
+    {
+      "name": "Denaq - Battery for IBM ThinkPad R400 R500 R60 R61 SL300 SL400 SL500 T500 T60 T61 W500 Z60m Z61e Z61m Z61p",
+      "salePrice": 79.99,
+      "features": [
+        {
+          "feature": "Battery Rechargeable: Yes"
+        },
+        {
+          "feature": "Battery Size: Proprietary Battery Size"
+        },
+        {
+          "feature": "Battery Chemistry: Lithium Ion (Li-Ion)"
+        },
+        {
+          "feature": "Battery Capacity: 7800 mAh"
+        },
+        {
+          "feature": "Output Voltage: 10.8 V DC"
+        },
+        {
+          "feature": "Height: 0.8\""
+        },
+        {
+          "feature": "Width: 3.1\""
+        },
+        {
+          "feature": "Depth: 3.1\""
+        },
+        {
+          "feature": "Length: 8.9\""
+        },
+        {
+          "feature": "Weight (Approximate): 1.50 lb"
+        },
+        {
+          "feature": "Compatible to OEM Part Number: 42T4513 42T4544 42T4560 42T4561 42T4566 42T4572 42T4671 42T5233 42T5234 42T5245 42T5246 43R9252"
+        },
+        {
+          "feature": "Compatibility: Lenovo ThinkPad W500 Notebook Lenovo ThinkPad R Series Notebooks:  R60 - 15.4 R60E - 15.4 R60I - 15.4 R61- 15.4 R61E - 15.4 R61I - 15.4"
+        },
+        {
+          "feature": "Limited Warranty: 1 Year"
+        }
+      ],
+      "largeImage": "http://img.bbystatic.com/BestBuy_US/images/products/6480/6480309_rb.jpg",
+      "mediumImage": "http://img.bbystatic.com/BestBuy_US/images/products/6480/6480309fp.gif"
+    },
+    {
+      "name": "Denaq - DQ-UA90W-10 AC Adapter - Black",
+      "salePrice": 33.99,
+      "features": [
+        {
+          "feature": "Device Supported: Notebook"
+        },
+        {
+          "feature": "Universal Adapter: Yes"
+        },
+        {
+          "feature": "Selectable Output Voltage: Yes"
+        },
+        {
+          "feature": "Multiple Power Tips: Yes"
+        },
+        {
+          "feature": "Maximum Output Power: 90 W"
+        },
+        {
+          "feature": "Height: 1.5\""
+        },
+        {
+          "feature": "Width: 2.3\""
+        },
+        {
+          "feature": "Depth: 5\""
+        },
+        {
+          "feature": "Weight (Approximate): 1 lb"
+        },
+        {
+          "feature": "Compatibility: Asus Netbook Eee PC Asus Notebooks: A2 A2000 A2500 A3000 A4 A4000 A6 A6000 A7 A8 A8000 A9"
+        },
+        {
+          "feature": "Green Compliant: Yes"
+        },
+        {
+          "feature": "Green Compliance Certificate/Authority: WEEE"
+        },
+        {
+          "feature": "Country of Origin: China"
+        },
+        {
+          "feature": "Limited Warranty: 1 Year"
+        }
+      ],
+      "largeImage": "http://img.bbystatic.com/BestBuy_US/images/products/4252/4252046_sb.jpg",
+      "mediumImage": "http://img.bbystatic.com/BestBuy_US/images/products/4252/4252046fp.gif"
+    }
+  ]
+}

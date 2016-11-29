@@ -1,0 +1,16 @@
+html
+    head
+        meta(charset='utf-8')
+        meta(name='description' content="Shopping Catalog")
+        title Available Products
+        style
+            include ../assets/css/mainProduct.css
+            include ../assets/css/product.css
+        script(src='updatePage.js')
+    body
+        div(id='mainProduct')
+        div(id='catalog' class='catalog')
+    footer
+        script(src='compiled/templates.js')
+        script(src='createPage.js')
+        script window.onload = loadProducts(#{productFunctionName}, #{mainFunctionName});

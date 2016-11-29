@@ -1,0 +1,11 @@
+# Dependency directory
+node_modules
+
+# IDEs
+.idea
+
+# mac
+.DS_Store
+
+# PUG compiled on runtime code
+templates.js

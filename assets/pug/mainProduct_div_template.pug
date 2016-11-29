@@ -1,0 +1,10 @@
+div(id='mainImgDiv')
+    img(src=regImg id='mainProductImg' class='mainProductImg')
+div(id='infoProduct')
+    pre(id='mainDescription' class='mainDescription') #{description}
+    ul(id='mainProductInfo' class='moreInfo')
+        each bullet in moreInfo
+            li=bullet.feature
+div(id='priceAndButton')
+    input(id='addCart' type='button' name='Add to Cart' value='Add to Cart' onclick='alertPrice(this)')
+    pre(id='mainProductPrice' class='price') #{price}

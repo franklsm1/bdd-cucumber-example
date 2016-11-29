@@ -1,0 +1,93 @@
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+
+    box-sizing: border-box;
+}
+
+.catalog {
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.product {
+    width: 28%;
+    min-height: 350px;
+    margin: 1.5%;
+    background-color: Gainsboro;
+    border: 3px solid grey;
+
+    display: flex;
+    flex-flow: column;
+}
+
+.product:nth-of-type(3n) {
+    margin-right: 5%;
+}
+
+.product:nth-of-type(3n+1) {
+    margin-left: 5%;
+}
+
+
+.smallImage {
+    display: block;
+    margin: auto;
+
+    order: 1;
+}
+
+.description {
+    text-align: center;
+    white-space: pre-wrap;
+    margin: 10px;
+
+    order: 2;
+}
+
+.price {
+    text-align: center;
+    display: block;
+    margin: 10px 10px 20px 10px;
+    font-size: 125%;
+
+    order: 3;
+}
+
+._button {
+    background: grey;
+    width: 90%;
+    font-size: 125%;
+    padding: 10px;
+    border: 2px solid black;
+    align-self: center;
+    margin: 5%;
+    order: 4;
+}
+
+/*Check for mobile view*/
+@media (max-width: 768px) {
+    .product:nth-of-type(3n) {
+        margin-right: 2%;
+    }
+
+    .product:nth-of-type(3n+1) {
+        margin-left: 2%;
+    }
+
+    .product {
+        width: 43%;
+        min-height: 350px;
+        margin: 2%;
+    }
+
+    .product:nth-of-type(2n) {
+        margin-right: 5%;
+    }
+
+    .product:nth-of-type(2n+1) {
+        margin-left: 5%;
+    }
+
+}
